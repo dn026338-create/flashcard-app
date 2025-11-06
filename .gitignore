@@ -1,0 +1,102 @@
+# Visual Studio caches & settings
+
+.vs/
+
+*.user
+
+*.vcxproj.user
+
+*.suo
+
+
+
+# VS FileContentIndex (tránh lỗi .vsidx bị khóa)
+
+**/FileContentIndex/
+
+*.vsidx
+
+
+
+# Build outputs
+
+x64/
+
+x86/
+
+[Oo]bj/
+
+[Bb]in/
+
+*.obj
+
+*.pch
+
+*.pdb
+
+*.ipdb
+
+*.iobj
+
+*.log
+
+
+
+# Intermediate & auto-generated
+
+*.tlog
+
+*.ilk
+
+*.idb
+
+*.opendb
+
+*.cache
+
+*.VC.db
+
+*.VC.VC.opendb
+
+Generated Files/
+
+
+
+# Packages/NuGet
+
+packages/
+
+packages.config
+
+
+
+# VS solution extras
+
+*.aps
+
+*.ncb
+
+*.sdf
+
+*.cachefile
+
+
+
+# Installer/artifacts
+
+*.msix
+
+*.msixbundle
+
+AppPackages/
+
+BundleArtifacts/
+
+
+
+# OS / misc
+
+Thumbs.db
+
+*.DS_Store
+
